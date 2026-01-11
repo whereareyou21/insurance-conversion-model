@@ -19,3 +19,7 @@ Key features:
 2. `EverTravelledAbroad` (Experience traveling abroad)
 3. `Age` (Age)
 
+Start App
+In the terminal, navigate to the project folder (if you are not already there) and execute the command:
+
+streamlit run streamlit_app.py
